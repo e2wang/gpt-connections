@@ -3,10 +3,6 @@ This project evaluates GPT's ability to categorize words by similarity. "Categor
 
 ## Overview
 
-### Key Links
-- Code - [github.com/e2wang/chatgpt-connections](https://github.com/e2wang/chatgpt-connections)
-- Final Report - 
-
 ### Usage
 
 First, use the `script.py` file as a querying method. All results will be saved into a `answers.csv` or `prompts.csv`
