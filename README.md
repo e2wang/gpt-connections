@@ -5,7 +5,7 @@ This project evaluates GPT's ability to categorize words by similarity. "Categor
 
 ### Usage
 
-First, use the `script.py` file as a querying method. All results will be saved into a `answers.csv` or `prompts.csv`
+First, use the `script.py` file as a querying method. All results will be saved into a `answers.csv` or `prompts.csv` as seen in `connections-pilot.ipynb`.
 
 Options:
 
@@ -15,8 +15,8 @@ Options:
 
   
 
-Next, you can load the `answers.csv` or `prompts.csv` as demonstrated in `connections-pilot.ipynb`.
+Next, you can generate the `results-2.csv` or `results-3.csv` as demonstrated in `analysis.ipynb`.
 
 ### Tech Stack
 
-Web querying is handled by Selenium using a head based Chromium browser. There is an option to use the `requests` package in place of Selenium. Core language is in Python.
+Web querying is handled by Selenium using a head based Chromium browser. There is an option to use the `requests` package in place of Selenium. GPT-3.5 responses collected from OpenAI's Python library, and GPT-2 reponses collected Hugging Face's Transformers library. Core language is in Python.
