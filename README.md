@@ -1,4 +1,4 @@
-# Evaluating Large Language Models in Categorization Task
+# Evaluating GPT Models in Categorization Tasks
 This project evaluates GPT's ability to categorize words by similarity. "Categorization" refers to the mental process of sorting objects or ideas into categories or groups based on shared features, properties, or relationships. It relies on general knowledge and understanding of the world to identify similarities and differences among items and organize them accordingly. This project aims to see how well GPT models, GPT-2 and GPT-3.5, can categorize words using past New York Times' Connections games, which with its diverse words and categories, encompasses different types of categorization. Additionally, given the different difficulty levels of categories, the project will see how well GPT perform versus New York Times' expected human performance on certain difficulty levels. This gives us some insight into how closely LLM's ability to categorize is to humans' ability to categorize.
 
 ## Overview
